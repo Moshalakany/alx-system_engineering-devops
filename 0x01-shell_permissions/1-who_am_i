@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 0
+=======
+#!/bin/bash
+whoami
+>>>>>>> c8a8edc9208153b87cbbe14f9a26999fce274465
