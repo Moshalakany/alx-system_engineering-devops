@@ -1,10 +1,2 @@
-<<<<<<< HEAD
-0
-=======
 #!/bin/bash
-<<<<<<< HEAD
 whoami
->>>>>>> c8a8edc9208153b87cbbe14f9a26999fce274465
-=======
-echo $(whoami)
->>>>>>> 357928892d935cebbc7a0cdc7156295594aa9923
